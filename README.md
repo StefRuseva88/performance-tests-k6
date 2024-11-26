@@ -7,7 +7,7 @@
 
 ---
 ## About
-This project demonstrates different Types of Performance Testing with Grafana/K6.
+This project demonstrates different Types of Performance Testing with K6.
 
 ## Types of Performance Tests Covered
 - **Smoke Testing:** Quick tests to check the basic functionality of the application.
