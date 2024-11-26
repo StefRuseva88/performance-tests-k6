@@ -2,7 +2,6 @@
 [![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800.svg)](https://grafana.com/)
 [![k6](https://img.shields.io/badge/Load%20Testing-k6-2E8BC0.svg)](https://k6.io/)
-[![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-E6522C.svg)](https://prometheus.io/)
 
 ### This is a test project for **Back-End Test Automation** March 2024 Course @ SoftUni
 
