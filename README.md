@@ -49,16 +49,22 @@ k6 Cloud simplifies running performance tests and provides detailed reports.
    ```sh
    k6 login cloud --token {your-token}
 
-## Further Studies
-- [Official k6 YouTube channel](https://www.youtube.com/c/k6test)
-- [Official k6 Documentation](https://grafana.com/docs/k6/latest/)
-- 
-## Contributing
+### Monitoring Test Results
+- View metrics like latency, throughput, and error rates in real time on Grafana dashboards.  
+- Analyze trends and identify performance bottlenecks using Grafana's visualization tools.
+
+### Further Studies
+- [Official k6 YouTube channel](https://www.youtube.com/c/k6test)  
+- [Official k6 Documentation](https://grafana.com/docs/k6/latest/)  
+- [Grafana Documentation](https://grafana.com/docs/)
+
+### Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss your changes.
 
-## License
-
+### License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
 ---
+
 ### Happy Testing! 🚀
+
