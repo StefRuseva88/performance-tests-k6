@@ -58,9 +58,6 @@ k6 Cloud simplifies running performance tests and provides detailed reports.
 - [Official k6 Documentation](https://grafana.com/docs/k6/latest/)  
 - [Grafana Documentation](https://grafana.com/docs/)
 
-### Contributing
-Contributions are welcome! Please submit a pull request or open an issue to discuss your changes.
-
 ### License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
