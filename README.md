@@ -8,7 +8,7 @@
 
 ---
 
-## Types of Performance Tests Covered
+## 🚦 Types of Performance Tests Covered
 This project demonstrates different types of Performance Testing with K6:
 
 - **Smoke Testing:** Quick tests to check the basic functionality of the application.
