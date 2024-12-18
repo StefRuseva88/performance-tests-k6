@@ -34,7 +34,7 @@ If you prefer a hosted solution, Grafana Cloud provides easy setup and integrati
 - **Sign Up:** Register for a Grafana Cloud account [here](https://grafana.com/products/cloud/).
 - **Connect to k6:** Link your k6 metrics to Grafana Cloud for live visualization.
 
-## k6 Cloud
+## ☁️ k6 Cloud
 k6 Cloud simplifies running performance tests and provides detailed reports.
 
 ## Setting Up k6 Cloud
