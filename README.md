@@ -8,10 +8,9 @@
 
 ---
 
-## About
-This project demonstrates different types of Performance Testing with K6.
-
 ## Types of Performance Tests Covered
+This project demonstrates different types of Performance Testing with K6:
+
 - **Smoke Testing:** Quick tests to check the basic functionality of the application.
 - **Load Testing:** Evaluates how the system behaves under expected load conditions.
 - **Stress Testing:** Determines the system's robustness by testing beyond normal operational capacity.
